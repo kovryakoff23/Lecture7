@@ -1,0 +1,3 @@
+rootProject.name = 'Lecture7'
+include 'Login'
+

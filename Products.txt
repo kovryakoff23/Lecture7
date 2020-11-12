@@ -1,0 +1,32 @@
+[
+{
+  "id": 1,
+  "name": "name1",
+  "organization": "org1",
+  "quantity": 100
+},
+{
+  "id": 2,
+  "name": "name2",
+  "organization": "org2",
+  "quantity": 200
+},
+{
+  "id": 3,
+  "name": "name3",
+  "organization": "org3",
+  "quantity": 300
+},
+{
+  "id": 4,
+  "name": "name4",
+  "organization": "org4",
+  "quantity": 400
+},
+{
+  "id": 5,
+  "name": "name5",
+  "organization": "org5",
+  "quantity": 500
+}
+]

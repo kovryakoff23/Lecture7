@@ -1,0 +1,12 @@
+
+
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html>
+<head><title>Info</title></head>
+<body><h1>При отправке запроса : http://localhost:3466/ListProducts сервер требует залогинится в случае ввода правильного
+логина и пароля от user или manager сервер конектиться с бд в postgres и отправляет в ответ на запрос список товаров в формате html страницы</h1></body>
+<body><h1>При отправке запроса : http://localhost:3466/AddProduct и отправке параметров (id=" "&name=" "&organization=" "&quantity=" "),
+сервер требует залогинится в случае ввода правильного логина и пароля от manager из того,
+что передано в качестве параметров сервер создает объект класса Product и добавляет его в бд</h1></body>
+</html>
